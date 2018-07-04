@@ -1,0 +1,6 @@
+C:\Users\Thiago Canella\Source\Repos\BlackJack-project\blackjack\bin\Release\blackjack.exe.config
+C:\Users\Thiago Canella\Source\Repos\BlackJack-project\blackjack\bin\Release\blackjack.exe
+C:\Users\Thiago Canella\Source\Repos\BlackJack-project\blackjack\bin\Release\blackjack.pdb
+C:\Users\Thiago Canella\Source\Repos\BlackJack-project\blackjack\obj\Release\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Canella\Source\Repos\BlackJack-project\blackjack\obj\Release\blackjack.exe
+C:\Users\Thiago Canella\Source\Repos\BlackJack-project\blackjack\obj\Release\blackjack.pdb
